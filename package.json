@@ -1,5 +1,5 @@
 {
-    "title": "Creative",
+    "title": "Createive",
     "name": "startbootstrap-creative",
     "version": "4.0.0-alpha",
     "description": "Creative is a stylish one page HTML theme for Bootstrap.",
@@ -11,7 +11,7 @@
         "theme",
         "template"
     ],
-    "homepage": "http://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
         "email": "feedback@startbootstrap.com"
