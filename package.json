@@ -1,4 +1,7 @@
-{
+{   
+    "scirpts":{"run": "node index.js"
+    
+    },
     "title": "Createive",
     "name": "startbootstrap-creative",
     "version": "4.0.0-alpha",
