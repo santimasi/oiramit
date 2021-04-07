@@ -36,13 +36,11 @@
     },
     "devDependencies": {
         "browser-sync": "^2.18.8",
-        "gulp": "^3.9.1",
-        "gulp-clean-css": "3.2.0",
+        "gulp": "^4.0.2",
+        "gulp-clean-css": "^4.3.0",
         "gulp-header": "1.8.8",
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0",
         "gulp-uglify": "^2.1.2"
     }
-   
-    
 }
