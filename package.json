@@ -44,6 +44,6 @@
         "gulp-uglify": "^2.1.2"
     },
     "scripts": {
-        "start": "node index.html"
+        "start": "node index.js"
      }
 }
